@@ -9,7 +9,7 @@
 /* ENCABEZADO MENU DE NAVEGACION -----------------------------------------------------------*/
 header {   
     font-size: 1.5vw;
-    background: linear-gradient(to left, #FAF5E9, #FFCC00);
+    background: linear-gradient(to left, #FAF5E9, #ff3c00);
     height: 20vh;
     text-align: center;
     position: fixed; /* Menu fijo */
